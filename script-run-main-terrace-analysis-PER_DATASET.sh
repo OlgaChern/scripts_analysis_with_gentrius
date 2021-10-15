@@ -1,6 +1,6 @@
 #!/bin/bash
 #------------------------------------------------------------------------------------------------------------------------
-# For a given tree and presence absence matrix this script performs terrace anaylsis using Gentrius algorithm.
+# For a given tree and presence absence matrix this script performs terrace analysis using Gentrius algorithm.
 #
 # Usage:
 # ./script-run-main-terrace-analysis-PER_DATASET.sh <pr_ab_matrix> <tree>
