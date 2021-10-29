@@ -15,7 +15,7 @@
 
 #
 # Usage:
-# ./script-run-main-terrace-analysis-PER_DATASET.sh <pr_ab_matrix> <tree>
+# ./script-run-print_cons-terrace-analysis-PER_DATASET.sh <pr_ab_matrix> <tree>
 #
 #-------------------------------------
 # tree - Newick format
